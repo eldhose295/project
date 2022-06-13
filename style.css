@@ -1,0 +1,45 @@
+#navbar{
+	background-color: red;
+	text-align: center;
+}
+button{
+	background-color: lightblue;
+}
+#login-page{
+	background-color: skyblue;
+	text-align: center;
+}
+div.image {
+  margin: 5px;
+  border: 1px solid;
+  width: 200px;
+
+}
+
+div.image:hover {
+  border: 1px solid #777;
+}
+
+div.image img {
+  width: 100%;
+  height: auto;
+}
+
+#carousel{
+	text-align: center;
+}
+table{
+	text-align: center;
+	border-spacing: 30px;
+}
+li{
+	float: left;
+}
+li a{
+	display: block;
+	padding: 3px;
+	text-align: center;
+}
+#card{
+	background-color: skyblue;
+}
